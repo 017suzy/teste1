@@ -1,1 +1,11 @@
 mensagemmm
+
+sempre tente que colocar o arquivo txt antes na pasta remota (seu computador) para depois na local (github)
+com GIT ADD!!!	
+
+para mexer nessa pasta e adicionar no github, voce tem que entrar dentro do repositorio (com cd = main)
+para fazer alterações com commit! 
+
+espero ter ajudado!!!
+
+alem disso: passa alterações:
